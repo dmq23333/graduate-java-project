@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET / HTTP/1.1" 200 2087 http-bio-8080-exec-1 1381
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /css/body.css HTTP/1.1" 200 946 http-bio-8080-exec-2 39
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /css/style.css HTTP/1.1" 200 9669 http-bio-8080-exec-3 58
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-4 43
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /images/cloud.jpg HTTP/1.1" 404 949 http-bio-8080-exec-7 9
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /images/8bcLQqF.png HTTP/1.1" 404 949 http-bio-8080-exec-6 13
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:53:51 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8080-exec-9 38
+0:0:0:0:0:0:0:1 - - [14/May/2019:09:54:01 +0800] "GET / HTTP/1.1" 200 2087 http-bio-8080-exec-10 13
